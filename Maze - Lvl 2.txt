@@ -1,0 +1,33 @@
+#####################################################################
+
+s w w w w w w w w w w s s s w w w w s s s w w w w w w w w w w s
+w + p p p p p + p p + w w w + p p + w w w + p p + p p p p p + w
+w p S w w w s p s S p w w w p s S . w w w p S s . s w w w S p w
+w p s w w w S p w w p s w s p w w . s w s p w w . S w w w s p w
+w + p p p p p + w w + p p p + w w + p p p + w w + p p p p p + w
+w p s w w w s p w s w w w S p w w p s w w w s w p s w w w s p w
+w p w s w w S p s w w w w s p w w p S w w w w s p S w w s w p w
+w p w w + p p + p p + p p p + w w + p p p + p p + p p + w w p w
+w p w w . w w w w w . S w w w S s w w w s . w w w w w . w w p w
+w p S s . w w w w w . s w w w w w w w w S . w w w w w . S s p w
+w + p p + p p + . . + p p . . . . . . p p + p p + . . + . . + w
+w p s w w w s . s S . S w w w w w w w w s . S s . s w w w s p w
+w p w w w w w . w w . s w w w w w w w w S . w w . w w w w w p w
+w p s w w w s . w w . . . . . . . . . . . + w w . s w w w s p w
+w + p p p p p + w w . s w w w w w w w w S . w w + p p p p p + w
+w p s w w w s . w w . S w w w w w w w w s . w w p s w w w s p w
+w p S w w s w . w w + . . . . . . . . . . + w w p w s w w S p w
+w + p p + w w . w w . S w w w w w w w w s . w w p w w + . . + w
+s w w s p w w . S s . s w w w s w w w w S . s S p w w . s w w s
+s w w S p w w + p p + . . . + w w + . . . + p p + w w . S w w s
+w + p p + w w p s w w w w S . w w . S w w w w s . w w + . . + w
+w p S w w s w p w s w w w s . S s . s w w w s w . w s w w S p w
+w p s w w w s p w w + . . . + . . + . . . + w w . s w w w s p w
+w + p p + p p + w w . s w s . S s . s w s . w w + . . + . . + w
+w p s S . s w w s w . w w w . w w . w w w . w s w w S . s S p w
+w p w w . S w w w s . w w w . s S . w w w . s w w w s . w w p w
+w p w w + . . . . . + w w w + . . + w w w + . . . . . + w w p w
+w p w w w w w w w S . w w s w w w w s w w . s w w w w w s w p w
+w p s w w w w w w s . s w w w w w w w w s . S w w w w w w s p w
+w + p p p p p p p p + p p p p p p p p p p + p p p p p p p p + w
+s w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w s

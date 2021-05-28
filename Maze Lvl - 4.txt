@@ -1,0 +1,33 @@
+############################################################
+
+s w w w w w w w w w s s w w w w s s w w w w w w w w w s
+w + p p p p p p p + w w + p p + w w + p p p p p p p + w
+w p S w w w w w s p w w p S s p w w p s w w w w w S p w
+w p s w w w w w S p w w p w w p w w p S w w w w w s p w
+w + p p p p + p p + w w p w w p w w + p p + p p p p + w
+s w w w w s p s S p w w p w w p w w p s s p s w w w w s
+s w w w w S p w w p w w p w w p w w p w w p S w w w w s
+w + p p p p + w w p S s p w w p S s p w w + p p p p + w
+s w w w w S p w w + p p + w w + p p + w w p s w w w w s
+s w w w w s p w s w w s p w w p s w w s w p S w w w w s
+w + p p p p + w s w w S p s S p S w w s w + p p p p + w
+w p s w w s p w w + p p + + p + p p + w w p s w w s p w
+w p w w w w p w w p s w s p s w w s p w w p w w w w p w
+w p w w w w p w w p w w w p w w w w p w w p w w w w p w
+w p w w w w p w w p w w w p w w w w p w w p w w w w p w
+w p w w w w p w w p w w w p w w w w p w w p w w w w p w
+w p s w w s p S s p s w s p s w w s p s s p s w w s p w
+w + p p + p + p p + p p + + p + p p + p p + p + p p + w
+s w w s p s w w w w w s p S s p s w w w w w s p S w w s
+s w w S p w s w w w w S p w w p S w w w w s w p s w w s
+w + p p + w w + p p p p + S s + p p p p + w w + p p + w
+s w w S p w w p S w w w w w w w w w w s p w w p s w w s
+s w w s p w w p s w w w w w w w w w w S p w w p S w w s
+w + p p + w w + p p p p + p p + p p p p + w w + p p + w
+w p s S p w s w w w w s p s S p s w w w w s w p s S p w
+w p w w p w s w w w w S p w w p S w w w w s w p w w p w
+w p w w p w w + p p p p + w w + p p p p + w w p w w p w
+w p w w p w w p w w w w p w w p s w w S p w w p w w p w
+w p s S p S s p w w w w p w w p S w w s p s S p S s p w
+w + p p + p p + p p p p + w w + p p p p + p p + p p + w
+s w w w w w w w w w w w w s s w w w w w w w w w w w w s

@@ -1,0 +1,34 @@
+##################################################################################
+
+
+s w w w w w w w w w w w w w w s s s w w w w w w w w w w w w w w s
+w + . . . . . + . . . . . . + w w w + . . . . . . + . . . . . + w
+w . s w w w s . s w w w w s . s w s . s w w w w s . s w w w s . w
+w . w w w w w . w w w w w w + . . . + w w w w w w . w w w w w . w
+w . s w w w s . s w w w w s . s w s . s w w w w s . s w w w s . w
+w + . . . . . + . . + . . . + w w w + . . . + . . + . . . . . + w
+w . s w w w S . s S . S w w w s w s w w w s . S s . S w w w s . w
+w . S w w w s . w w . s w w w s w w w w w S . w w . s w w w S . w
+w + . . + . . + w w + . . . + w w w + . . . + w w + . . + . . + w
+s w w S . s S . w s w w w S . w w w . s w w w s w . S s . s w w s
+s w w s . w w . s w w w w s . s w s . S w w w w s . w w . S w w s
+w + . . + w w + . . + . . . + . . . + . . . + . . + w w + . . + w
+w . S w w s w . S s . S w w w w w w w w w s . s S . w s w w S . w
+w . s w w w s . w w . s w w w s w s w w w S . w w . s w w w s . w
+w + . . . . . + w w + . . . + w w w + . . . + w w + . . . . . + w
+w . s w w w s . w w . S w w w s w s w w w S . w w . s w w w S . w
+w . S w w s w . w w . s w w w w w w w w w s . w w . w s w w s . w
+w + . . + w w . w w + . . . . . . . . . . . + w w . w w + . . + w
+w w w S . w w . w w . s w w w w w w w w w S . w w . w w . s w w s
+w w w s . S s . w w . S w w w w w w w w w s . s S . s S . S w w s
+w + . . + . . + . . + . . . + . . . + . . . + . . + . . + . . + w
+w . s w w w s . s w w w w S . s w s . S w w w w s . s w w w S . w
+w . S w w s w . S w w w w s . w w w . s w w w w S . w s w w s . w
+w + . . + w w + . . + . . . + w w w + . . . + . . + w w + . . + w
+s w w S . w w . s S . s w w w s w s w w w S . S s . w w . s w w s
+s w w s . S s . w w . S w w w s w s w w w s . w w . s S . S w w s
+w + . . + . . + w w + . . . + w w w + . . . + w w + . . + . . + w
+w . s w w w S . w s w w w s . w w w . s w w w s w . s w w w S . w
+w . S w w w s . s w w w w S . s w s . S w w w w s . S w w w s . w
+w + . . . . . + . . . . . . + . . . + . . . . . . + . . . . . + w
+s w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w s
